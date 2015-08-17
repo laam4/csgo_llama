@@ -12,3 +12,7 @@ Simplified csgo_english.txt and valve_english.txt with more COLORS
 - Change more stuff
 - Get suggestions
 - Receive bacon
+
+## Screenshot(s)
+
+![Derp](/screens/1.png)
