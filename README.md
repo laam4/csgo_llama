@@ -50,7 +50,6 @@ Simplified csgo_english.txt and valve_english.txt with more COLORS
 - You could also change the dots to something else
   - Uncomment line 290 and comment line 289 
 
-
 #### Grenades
 
 ![Grenades](/readme/grenades.png)
@@ -63,13 +62,8 @@ Simplified csgo_english.txt and valve_english.txt with more COLORS
 
 - Shortened messages and added some colors
 
-
-
-
-
 ## TODO
 
 - Change more stuff
 - Get suggestions
 - Receive bacon
-
