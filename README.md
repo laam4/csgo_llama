@@ -54,9 +54,9 @@ Simplified csgo_english.txt and valve_english.txt with more COLORS
 
 ![Grenades](/readme/grenades.png)
 
-- Each grenade with it's own color to improve readability
+- Each grenade has own color to improve readability
 
-#### Other chat messager
+#### Other chat messages
 
 ![Other](/readme/other.png)
 
