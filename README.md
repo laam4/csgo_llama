@@ -15,7 +15,7 @@ Simplified csgo_english.txt and valve_english.txt with more COLORS
 
 - Changed `Playing` to `Loading...` and `Main Menu`, because this status will show up only when starting the game (Loading) and when players aren't connected to any server (Main Menu).
 - Official **Competitive** and **Casual** now with bold.
-- Community *Competitive* and *Casual* now with italics.
+- All Community *gamemodes* now with italics.
 - Unfortunately colors can't be changed, tried `<font>` and `<span>`. Newline `\n` works but then texts overlap.
 
 ### Status messages
@@ -30,7 +30,6 @@ Simplified csgo_english.txt and valve_english.txt with more COLORS
 ![Damage](/readme/dmg.png)
 
 - Changed taken damage to red and given to green to improve readability
-- TODO: Change to Solarized?
 
 ### Chat
 
