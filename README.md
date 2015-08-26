@@ -31,6 +31,12 @@ Simplified csgo_english.txt and valve_english.txt with more COLORS
 
 - Changed taken damage to red and given to green to improve readability
 
+### MVP
+
+![MVP](/readme/mvp.png)
+
+- Slightly hilighted MVP and funfact strings
+
 ### Chat
 
 ![Chat](/readme/chat.png)
